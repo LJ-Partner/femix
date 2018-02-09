@@ -1,0 +1,26 @@
+{
+  "name": "femix",
+  "version": "1.0.0",
+  "description": "fast create front-end apps kits,based webpack ,react,vue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LJ-Partner/femix.git"
+  },
+  "keywords": [
+    "kits",
+    "webpack",
+    "shlrlj",
+    "RichardLee1978",
+    "femix"
+  ],
+  "author": "RichardLee1978",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LJ-Partner/femix/issues"
+  },
+  "homepage": "https://github.com/LJ-Partner/femix#readme"
+}
