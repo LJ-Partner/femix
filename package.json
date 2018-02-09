@@ -6,6 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bin":{
+    "femix":"bin/femix"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/LJ-Partner/femix.git"
@@ -22,5 +25,11 @@
   "bugs": {
     "url": "https://github.com/LJ-Partner/femix/issues"
   },
-  "homepage": "https://github.com/LJ-Partner/femix#readme"
+  "homepage": "https://github.com/LJ-Partner/femix#readme",
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "co": "^4.6.0",
+    "co-prompt": "^1.0.0",
+    "commander": "^2.14.1"
+  }
 }
